@@ -3,26 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/how/smart-touch-air-meter/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/how/2-in-1/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/how/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
   </url>
   
@@ -35,11 +15,23 @@
   </url>
   
   <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/how/</loc>
+  </url>
+  
+  <url>
     <loc>/404/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/testimonials/</loc>
   </url>
   
   <url>
