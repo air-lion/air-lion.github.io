@@ -31,5 +31,14 @@ We are Air Lion, the midwest regional distributor of the Patriot System headquar
    Day Office Hours Home Visit Hours     Monday to Friday 10:00am to 5:00pm By Appointment Only   Saturday and Sunday Closed By Appointment Only   Holidays Closed Closed    </description>
     </item>
     
+    <item>
+      <title>Videos</title>
+      <link>/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/videos/</guid>
+      <description>How clean is the air you breathe? This video demonstrates smoke particles entering and moving through various vacuum cleaners. Many of these machines are high end models or popular in big box stores.</description>
+    </item>
+    
   </channel>
 </rss>
